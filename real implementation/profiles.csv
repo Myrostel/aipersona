@@ -1,0 +1,193 @@
+role,name,title,company,description,field,interest_area
+seller,John Doe,Sales Manager,TechCorp,TechCorp is a technology solutions provider,Technology,AI and Machine Learning
+buyer,Jane Smith,Procurement Officer,HealthPlus,HealthPlus is a healthcare services company,Healthcare,Medical Devices
+seller,Alice Brown,Account Executive,InnovateX,InnovateX specializes in innovative software solutions,Software,Cloud Computing
+buyer,Bob White,Head of Procurement,MediCare,MediCare offers comprehensive healthcare services,Healthcare,Telemedicine
+seller,Charlie Green,Sales Director,SmartTech,SmartTech provides smart home devices,Smart Home,Home Automation
+buyer,Eve Black,Supply Chain Manager,FitnessPlus,FitnessPlus is a chain of fitness centers,Fitness,Wearable Technology
+seller,Dave Clark,Business Development Manager,NetSolutions,NetSolutions offers networking solutions,Networking,IoT
+buyer,Fay Blue,Procurement Specialist,HealthGuard,HealthGuard provides health insurance services,Insurance,Health Insurance
+seller,Grace Harris,Sales Consultant,DataWave,DataWave offers data analytics solutions,Data Analytics,Big Data
+buyer,Hank Yellow,Procurement Coordinator,WellnessWorks,WellnessWorks provides wellness programs,Wellness,Corporate Wellness
+seller,Ivy Adams,Senior Sales Representative,CloudNet,CloudNet offers cloud computing services,Cloud Computing,SaaS
+buyer,Jack Orange,Procurement Manager,LifeCare,LifeCare provides home healthcare services,Home Healthcare,Remote Patient Monitoring
+seller,Karen White,Account Manager,TechVerse,TechVerse specializes in virtual reality solutions,Virtual Reality,VR for Training
+buyer,Leo Red,Senior Buyer,HealthCorp,HealthCorp provides healthcare management services,Healthcare,Healthcare IT
+seller,Mike Black,Regional Sales Manager,InnovateTech,InnovateTech offers advanced tech solutions,Technology,Blockchain
+buyer,Nina Green,Head of Procurement,FitLife,FitLife provides fitness equipment and services,Fitness,Fitness Apps
+seller,Oscar Brown,National Sales Manager,SoftWave,SoftWave develops software solutions for businesses,Software,Enterprise Software
+buyer,Paul White,Procurement Analyst,HealthPlus,HealthPlus offers health insurance and services,Healthcare,Health Data Analytics
+seller,Quinn Red,Inside Sales Representative,NextGenTech,NextGenTech specializes in next-gen technology,Technology,5G Technology
+buyer,Rita Yellow,Lead Buyer,WellnessHealth,WellnessHealth provides health and wellness solutions,Wellness,Mindfulness
+seller,Sam Green,Sales Executive,DataNet,DataNet provides data networking solutions,Networking,Network Security
+buyer,Tina Blue,Procurement Officer,HealthFirst,HealthFirst offers healthcare services and solutions,Healthcare,Primary Care Solutions
+seller,Uma White,Corporate Sales Manager,InnovativeCorp,InnovativeCorp offers innovative business solutions,Business Solutions,Business Intelligence
+buyer,Victor Red,Procurement Lead,FitPro,FitPro offers professional fitness services,Fitness,Sports Technology
+seller,Wendy Brown,Field Sales Manager,SmartSolutions,SmartSolutions provides smart technology solutions,Smart Technology,Smart Cities
+buyer,Xander Yellow,Chief Procurement Officer,HealthInnovate,HealthInnovate offers innovative health services,Healthcare,Health Startups
+seller,Yara Green,Sales Associate,TechWave,TechWave specializes in wave technology solutions,Wave Technology,Wave Energy
+buyer,Zack Blue,Senior Procurement Specialist,WellnessSolutions,WellnessSolutions offers comprehensive wellness services,Wellness,Employee Wellness
+seller,Aaron Black,Sales Lead,CloudTech,CloudTech offers cloud-based technology solutions,Cloud Technology,Cloud Security
+buyer,Beth Red,Procurement Executive,FitWell,FitWell offers fitness and wellness services,Fitness,Fitness Nutrition
+seller,Casey White,Sales Representative,NetInnovate,NetInnovate specializes in network innovation,Networking,Edge Computing
+buyer,Diana Yellow,Head of Procurement,HealthLife,HealthLife provides comprehensive healthcare solutions,Healthcare,Health Robotics
+seller,Eli Green,Account Executive,SmartTech,SmartTech offers smart home and tech solutions,Smart Home,Home Security
+buyer,Fiona Blue,Procurement Coordinator,WellnessCorp,WellnessCorp offers wellness and health services,Wellness,Holistic Health
+seller,Gary Brown,Sales Consultant,DataTech,DataTech provides data technology solutions,Data Technology,Data Privacy
+buyer,Harry White,Procurement Manager,HealthServices,HealthServices offers a range of healthcare services,Healthcare,Telehealth
+seller,Ingrid Red,Senior Sales Manager,InnovativeSolutions,InnovativeSolutions provides business innovation solutions,Business Solutions,Process Automation
+buyer,Jason Yellow,Senior Procurement Officer,FitCorp,FitCorp offers fitness and corporate wellness services,Fitness,Corporate Fitness
+seller,Kate Green,Sales Manager,NextGenInnovate,NextGenInnovate specializes in innovative tech solutions,Technology,AI
+buyer,Larry Blue,Procurement Analyst,HealthPlus,HealthPlus provides comprehensive health services,Healthcare,Health IT
+seller,Mona White,Account Manager,TechInnovate,TechInnovate specializes in innovative tech solutions,Technology,Innovation Management
+buyer,Nate Red,Head of Procurement,WellnessHealth,WellnessHealth offers health and wellness programs,Wellness,Wellness Technology
+seller,Olivia Brown,Sales Executive,CloudWave,CloudWave offers cloud technology solutions,Cloud Technology,Cloud Integration
+buyer,Peter Yellow,Procurement Lead,HealthPro,HealthPro provides professional healthcare services,Healthcare,Healthcare Management
+seller,Quincy Green,Regional Sales Manager,SmartNet,SmartNet offers smart networking solutions,Networking,Network Automation
+buyer,Rachel Blue,Lead Buyer,FitServices,FitServices offers fitness and health services,Fitness,Fitness Tracking
+seller,Steven White,National Sales Manager,DataInnovate,DataInnovate specializes in data innovation solutions,Data Technology,Data Integration
+buyer,Tracy Red,Chief Procurement Officer,WellnessInnovate,WellnessInnovate offers innovative wellness solutions,Wellness,Health Wearables
+seller,Alex Brown,Sales Director,AlphaTech,AlphaTech provides cutting-edge tech solutions,Technology,Quantum Computing
+buyer,Bella White,Procurement Director,MedLife,MedLife offers medical equipment and services,Healthcare,Medical Imaging
+seller,Chris Green,Sales Manager,EcoTech,EcoTech specializes in eco-friendly technology,Eco Technology,Green Energy
+buyer,Derek Black,Senior Buyer,FitHealth,FitHealth provides fitness and health products,Fitness,Health Supplements
+seller,Elena Blue,Account Executive,HealthTech,HealthTech develops healthcare technology solutions,Healthcare,Medical Software
+buyer,Frank Yellow,Procurement Officer,LifeWell,LifeWell offers wellness and life coaching services,Wellness,Life Coaching
+seller,Georgia Red,Sales Consultant,InnovaWave,InnovaWave provides innovative tech solutions,Technology,Emerging Technologies
+buyer,Holly Green,Procurement Specialist,MedCare,MedCare offers comprehensive medical services,Healthcare,Patient Care
+seller,Isaac White,Sales Manager,TechSolutions,TechSolutions offers IT and tech services,IT Services,IT Consulting
+buyer,Jamie Blue,Head of Procurement,HealthInnovate,HealthInnovate provides health innovation solutions,Healthcare,Health Entrepreneurship
+seller,Kara Yellow,Senior Sales Executive,NextGenData,NextGenData specializes in data innovation solutions,Data Technology,Data Analytics
+buyer,Liam Red,Lead Buyer,WellnessCorp,WellnessCorp provides corporate wellness programs,Wellness,Mental Health
+seller,Mona Brown,Sales Manager,SmartWave,SmartWave provides smart technology solutions,Smart Technology,Smart Home Integration
+buyer,Nathan Green,Head of Procurement,HealthNet,HealthNet offers healthcare networking solutions,Healthcare,Health Informatics
+seller,Owen Blue,Senior Sales Representative,TechInnovate,TechInnovate provides innovative technology solutions,Technology,Robotics
+buyer,Paula White,Procurement Specialist,FitHealth,FitHealth offers fitness and health services,Fitness,Health Tracking
+seller,Quinn Red,Account Executive,DataSolutions,DataSolutions specializes in data management solutions,Data Management,Data Storage
+buyer,Rachel Yellow,Procurement Analyst,HealthGuard,HealthGuard offers health insurance and services,Insurance,Insurance Tech
+seller,Sam Green,Sales Manager,CloudNet,CloudNet offers cloud computing solutions,Cloud Computing,Cloud Infrastructure
+buyer,Tom Blue,Procurement Coordinator,FitLife,FitLife offers fitness and lifestyle services,Fitness,Fitness Programs
+seller,Ursula White,Sales Consultant,TechInnovate,TechInnovate specializes in tech innovation solutions,Technology,Tech Startups
+buyer,Vera Red,Procurement Officer,HealthTech,HealthTech offers healthcare technology solutions,Healthcare,Digital Health
+seller,Will Brown,Sales Executive,DataCore,DataCore provides data management and solutions,Data Management,Database Solutions
+buyer,Xena Green,Head of Procurement,LifeWell,LifeWell provides comprehensive wellness services,Wellness,Lifestyle Coaching
+seller,Yara Yellow,Account Manager,SmartNet,SmartNet offers smart networking solutions,Networking,Smart Networks
+buyer,Zach Blue,Senior Buyer,FitPro,FitPro offers professional fitness services,Fitness,Fitness Coaching
+seller,Amy White,Sales Director,NextGenTech,NextGenTech specializes in next-gen tech solutions,Technology,Next-Gen Computing
+buyer,Ben Red,Procurement Specialist,WellnessSolutions,WellnessSolutions provides wellness programs,Wellness,Wellness Analytics
+seller,Cara Brown,Sales Lead,InnovaWave,InnovaWave provides innovative technology solutions,Technology,Innovation Tech
+buyer,David Green,Procurement Manager,HealthInnovate,HealthInnovate offers innovative health solutions,Healthcare,Health Innovations
+seller,Evan Blue,Senior Sales Manager,TechSolutions,TechSolutions offers IT and tech solutions,IT Services,IT Infrastructure
+buyer,Fiona White,Lead Buyer,WellnessHealth,WellnessHealth provides health and wellness programs,Wellness,Wellness Strategies
+seller,George Red,Sales Consultant,DataInnovate,DataInnovate specializes in data innovation solutions,Data Technology,Data Solutions
+buyer,Harry Brown,Procurement Executive,FitLife,FitLife offers fitness and lifestyle services,Fitness,Lifestyle Fitness
+seller,Isabel Green,Account Manager,SmartWave,SmartWave provides smart technology solutions,Smart Technology,Smart Devices
+buyer,Jack Yellow,Procurement Officer,HealthCorp,HealthCorp offers healthcare management services,Healthcare,Health Management
+seller,Kara Blue,Sales Director,InnovateNet,InnovateNet specializes in network innovation solutions,Networking,Network Tech
+buyer,Laura Red,Head of Procurement,FitSolutions,FitSolutions provides fitness and wellness solutions,Fitness,Fitness Solutions
+seller,Mark Green,Sales Executive,TechCore,TechCore offers technology and IT solutions,IT Services,IT Solutions
+buyer,Nancy Blue,Senior Buyer,HealthFirst,HealthFirst provides healthcare services,Healthcare,Health Solutions
+seller,Oscar White,Sales Lead,DataWave,DataWave offers data analytics solutions,Data Analytics,Data Insights
+buyer,Paula Green,Procurement Analyst,WellnessWorks,WellnessWorks provides wellness programs,Wellness,Workplace Wellness
+seller,Quinn Yellow,Account Executive,CloudNet,CloudNet offers cloud computing services,Cloud Computing,Cloud Applications
+buyer,Rachel Blue,Procurement Specialist,LifeCare,LifeCare provides home healthcare services,Home Healthcare,Home Health Tech
+seller,Charlie Green 0,Sales Director 0,SmartTech 0,SmartTech provides smart home devices 0,Smart Home,Home Automation 0
+buyer,Eve Black 1,Supply Chain Manager 1,FitnessPlus 1,FitnessPlus is a chain of fitness centers 1,Fitness,Fitness Equipment 1
+seller,Charlie Green 2,Sales Director 2,SmartTech 2,SmartTech provides smart home devices 2,Smart Home,Home Automation 2
+buyer,Eve Black 3,Supply Chain Manager 3,FitnessPlus 3,FitnessPlus is a chain of fitness centers 3,Fitness,Fitness Equipment 3
+seller,Charlie Green 4,Sales Director 4,SmartTech 4,SmartTech provides smart home devices 4,Smart Home,Home Automation 4
+buyer,Eve Black 5,Supply Chain Manager 5,FitnessPlus 5,FitnessPlus is a chain of fitness centers 5,Fitness,Fitness Equipment 5
+seller,Charlie Green 6,Sales Director 6,SmartTech 6,SmartTech provides smart home devices 6,Smart Home,Home Automation 6
+buyer,Eve Black 7,Supply Chain Manager 7,FitnessPlus 7,FitnessPlus is a chain of fitness centers 7,Fitness,Fitness Equipment 7
+seller,Charlie Green 8,Sales Director 8,SmartTech 8,SmartTech provides smart home devices 8,Smart Home,Home Automation 8
+buyer,Eve Black 9,Supply Chain Manager 9,FitnessPlus 9,FitnessPlus is a chain of fitness centers 9,Fitness,Fitness Equipment 9
+seller,Charlie Green 10,Sales Director 10,SmartTech 10,SmartTech provides smart home devices 10,Smart Home,Home Automation 10
+buyer,Eve Black 11,Supply Chain Manager 11,FitnessPlus 11,FitnessPlus is a chain of fitness centers 11,Fitness,Fitness Equipment 11
+seller,Charlie Green 12,Sales Director 12,SmartTech 12,SmartTech provides smart home devices 12,Smart Home,Home Automation 12
+buyer,Eve Black 13,Supply Chain Manager 13,FitnessPlus 13,FitnessPlus is a chain of fitness centers 13,Fitness,Fitness Equipment 13
+seller,Charlie Green 14,Sales Director 14,SmartTech 14,SmartTech provides smart home devices 14,Smart Home,Home Automation 14
+buyer,Eve Black 15,Supply Chain Manager 15,FitnessPlus 15,FitnessPlus is a chain of fitness centers 15,Fitness,Fitness Equipment 15
+seller,Charlie Green 16,Sales Director 16,SmartTech 16,SmartTech provides smart home devices 16,Smart Home,Home Automation 16
+buyer,Eve Black 17,Supply Chain Manager 17,FitnessPlus 17,FitnessPlus is a chain of fitness centers 17,Fitness,Fitness Equipment 17
+seller,Charlie Green 18,Sales Director 18,SmartTech 18,SmartTech provides smart home devices 18,Smart Home,Home Automation 18
+buyer,Eve Black 19,Supply Chain Manager 19,FitnessPlus 19,FitnessPlus is a chain of fitness centers 19,Fitness,Fitness Equipment 19
+seller,Charlie Green 20,Sales Director 20,SmartTech 20,SmartTech provides smart home devices 20,Smart Home,Home Automation 20
+buyer,Eve Black 21,Supply Chain Manager 21,FitnessPlus 21,FitnessPlus is a chain of fitness centers 21,Fitness,Fitness Equipment 21
+seller,Charlie Green 22,Sales Director 22,SmartTech 22,SmartTech provides smart home devices 22,Smart Home,Home Automation 22
+buyer,Eve Black 23,Supply Chain Manager 23,FitnessPlus 23,FitnessPlus is a chain of fitness centers 23,Fitness,Fitness Equipment 23
+seller,Charlie Green 24,Sales Director 24,SmartTech 24,SmartTech provides smart home devices 24,Smart Home,Home Automation 24
+buyer,Eve Black 25,Supply Chain Manager 25,FitnessPlus 25,FitnessPlus is a chain of fitness centers 25,Fitness,Fitness Equipment 25
+seller,Charlie Green 26,Sales Director 26,SmartTech 26,SmartTech provides smart home devices 26,Smart Home,Home Automation 26
+buyer,Eve Black 27,Supply Chain Manager 27,FitnessPlus 27,FitnessPlus is a chain of fitness centers 27,Fitness,Fitness Equipment 27
+seller,Charlie Green 28,Sales Director 28,SmartTech 28,SmartTech provides smart home devices 28,Smart Home,Home Automation 28
+buyer,Eve Black 29,Supply Chain Manager 29,FitnessPlus 29,FitnessPlus is a chain of fitness centers 29,Fitness,Fitness Equipment 29
+seller,Charlie Green 30,Sales Director 30,SmartTech 30,SmartTech provides smart home devices 30,Smart Home,Home Automation 30
+buyer,Eve Black 31,Supply Chain Manager 31,FitnessPlus 31,FitnessPlus is a chain of fitness centers 31,Fitness,Fitness Equipment 31
+seller,Charlie Green 32,Sales Director 32,SmartTech 32,SmartTech provides smart home devices 32,Smart Home,Home Automation 32
+buyer,Eve Black 33,Supply Chain Manager 33,FitnessPlus 33,FitnessPlus is a chain of fitness centers 33,Fitness,Fitness Equipment 33
+seller,Charlie Green 34,Sales Director 34,SmartTech 34,SmartTech provides smart home devices 34,Smart Home,Home Automation 34
+buyer,Eve Black 35,Supply Chain Manager 35,FitnessPlus 35,FitnessPlus is a chain of fitness centers 35,Fitness,Fitness Equipment 35
+seller,Charlie Green 36,Sales Director 36,SmartTech 36,SmartTech provides smart home devices 36,Smart Home,Home Automation 36
+buyer,Eve Black 37,Supply Chain Manager 37,FitnessPlus 37,FitnessPlus is a chain of fitness centers 37,Fitness,Fitness Equipment 37
+seller,Charlie Green 38,Sales Director 38,SmartTech 38,SmartTech provides smart home devices 38,Smart Home,Home Automation 38
+buyer,Eve Black 39,Supply Chain Manager 39,FitnessPlus 39,FitnessPlus is a chain of fitness centers 39,Fitness,Fitness Equipment 39
+seller,Charlie Green 40,Sales Director 40,SmartTech 40,SmartTech provides smart home devices 40,Smart Home,Home Automation 40
+buyer,Eve Black 41,Supply Chain Manager 41,FitnessPlus 41,FitnessPlus is a chain of fitness centers 41,Fitness,Fitness Equipment 41
+seller,Charlie Green 42,Sales Director 42,SmartTech 42,SmartTech provides smart home devices 42,Smart Home,Home Automation 42
+buyer,Eve Black 43,Supply Chain Manager 43,FitnessPlus 43,FitnessPlus is a chain of fitness centers 43,Fitness,Fitness Equipment 43
+seller,Charlie Green 44,Sales Director 44,SmartTech 44,SmartTech provides smart home devices 44,Smart Home,Home Automation 44
+buyer,Eve Black 45,Supply Chain Manager 45,FitnessPlus 45,FitnessPlus is a chain of fitness centers 45,Fitness,Fitness Equipment 45
+seller,Charlie Green 46,Sales Director 46,SmartTech 46,SmartTech provides smart home devices 46,Smart Home,Home Automation 46
+buyer,Eve Black 47,Supply Chain Manager 47,FitnessPlus 47,FitnessPlus is a chain of fitness centers 47,Fitness,Fitness Equipment 47
+seller,Charlie Green 48,Sales Director 48,SmartTech 48,SmartTech provides smart home devices 48,Smart Home,Home Automation 48
+buyer,Eve Black 49,Supply Chain Manager 49,FitnessPlus 49,FitnessPlus is a chain of fitness centers 49,Fitness,Fitness Equipment 49
+seller,Charlie Green 50,Sales Director 50,SmartTech 50,SmartTech provides smart home devices 50,Smart Home,Home Automation 50
+buyer,Eve Black 51,Supply Chain Manager 51,FitnessPlus 51,FitnessPlus is a chain of fitness centers 51,Fitness,Fitness Equipment 51
+seller,Charlie Green 52,Sales Director 52,SmartTech 52,SmartTech provides smart home devices 52,Smart Home,Home Automation 52
+buyer,Eve Black 53,Supply Chain Manager 53,FitnessPlus 53,FitnessPlus is a chain of fitness centers 53,Fitness,Fitness Equipment 53
+seller,Charlie Green 54,Sales Director 54,SmartTech 54,SmartTech provides smart home devices 54,Smart Home,Home Automation 54
+buyer,Eve Black 55,Supply Chain Manager 55,FitnessPlus 55,FitnessPlus is a chain of fitness centers 55,Fitness,Fitness Equipment 55
+seller,Charlie Green 56,Sales Director 56,SmartTech 56,SmartTech provides smart home devices 56,Smart Home,Home Automation 56
+buyer,Eve Black 57,Supply Chain Manager 57,FitnessPlus 57,FitnessPlus is a chain of fitness centers 57,Fitness,Fitness Equipment 57
+seller,Charlie Green 58,Sales Director 58,SmartTech 58,SmartTech provides smart home devices 58,Smart Home,Home Automation 58
+buyer,Eve Black 59,Supply Chain Manager 59,FitnessPlus 59,FitnessPlus is a chain of fitness centers 59,Fitness,Fitness Equipment 59
+seller,Charlie Green 60,Sales Director 60,SmartTech 60,SmartTech provides smart home devices 60,Smart Home,Home Automation 60
+buyer,Eve Black 61,Supply Chain Manager 61,FitnessPlus 61,FitnessPlus is a chain of fitness centers 61,Fitness,Fitness Equipment 61
+seller,Charlie Green 62,Sales Director 62,SmartTech 62,SmartTech provides smart home devices 62,Smart Home,Home Automation 62
+buyer,Eve Black 63,Supply Chain Manager 63,FitnessPlus 63,FitnessPlus is a chain of fitness centers 63,Fitness,Fitness Equipment 63
+seller,Charlie Green 64,Sales Director 64,SmartTech 64,SmartTech provides smart home devices 64,Smart Home,Home Automation 64
+buyer,Eve Black 65,Supply Chain Manager 65,FitnessPlus 65,FitnessPlus is a chain of fitness centers 65,Fitness,Fitness Equipment 65
+seller,Charlie Green 66,Sales Director 66,SmartTech 66,SmartTech provides smart home devices 66,Smart Home,Home Automation 66
+buyer,Eve Black 67,Supply Chain Manager 67,FitnessPlus 67,FitnessPlus is a chain of fitness centers 67,Fitness,Fitness Equipment 67
+seller,Charlie Green 68,Sales Director 68,SmartTech 68,SmartTech provides smart home devices 68,Smart Home,Home Automation 68
+buyer,Eve Black 69,Supply Chain Manager 69,FitnessPlus 69,FitnessPlus is a chain of fitness centers 69,Fitness,Fitness Equipment 69
+seller,Charlie Green 70,Sales Director 70,SmartTech 70,SmartTech provides smart home devices 70,Smart Home,Home Automation 70
+buyer,Eve Black 71,Supply Chain Manager 71,FitnessPlus 71,FitnessPlus is a chain of fitness centers 71,Fitness,Fitness Equipment 71
+seller,Charlie Green 72,Sales Director 72,SmartTech 72,SmartTech provides smart home devices 72,Smart Home,Home Automation 72
+buyer,Eve Black 73,Supply Chain Manager 73,FitnessPlus 73,FitnessPlus is a chain of fitness centers 73,Fitness,Fitness Equipment 73
+seller,Charlie Green 74,Sales Director 74,SmartTech 74,SmartTech provides smart home devices 74,Smart Home,Home Automation 74
+buyer,Eve Black 75,Supply Chain Manager 75,FitnessPlus 75,FitnessPlus is a chain of fitness centers 75,Fitness,Fitness Equipment 75
+seller,Charlie Green 76,Sales Director 76,SmartTech 76,SmartTech provides smart home devices 76,Smart Home,Home Automation 76
+buyer,Eve Black 77,Supply Chain Manager 77,FitnessPlus 77,FitnessPlus is a chain of fitness centers 77,Fitness,Fitness Equipment 77
+seller,Charlie Green 78,Sales Director 78,SmartTech 78,SmartTech provides smart home devices 78,Smart Home,Home Automation 78
+buyer,Eve Black 79,Supply Chain Manager 79,FitnessPlus 79,FitnessPlus is a chain of fitness centers 79,Fitness,Fitness Equipment 79
+seller,Charlie Green 80,Sales Director 80,SmartTech 80,SmartTech provides smart home devices 80,Smart Home,Home Automation 80
+buyer,Eve Black 81,Supply Chain Manager 81,FitnessPlus 81,FitnessPlus is a chain of fitness centers 81,Fitness,Fitness Equipment 81
+seller,Charlie Green 82,Sales Director 82,SmartTech 82,SmartTech provides smart home devices 82,Smart Home,Home Automation 82
+buyer,Eve Black 83,Supply Chain Manager 83,FitnessPlus 83,FitnessPlus is a chain of fitness centers 83,Fitness,Fitness Equipment 83
+seller,Charlie Green 84,Sales Director 84,SmartTech 84,SmartTech provides smart home devices 84,Smart Home,Home Automation 84
+buyer,Eve Black 85,Supply Chain Manager 85,FitnessPlus 85,FitnessPlus is a chain of fitness centers 85,Fitness,Fitness Equipment 85
+seller,Charlie Green 86,Sales Director 86,SmartTech 86,SmartTech provides smart home devices 86,Smart Home,Home Automation 86
+buyer,Eve Black 87,Supply Chain Manager 87,FitnessPlus 87,FitnessPlus is a chain of fitness centers 87,Fitness,Fitness Equipment 87
+seller,Charlie Green 88,Sales Director 88,SmartTech 88,SmartTech provides smart home devices 88,Smart Home,Home Automation 88
+buyer,Eve Black 89,Supply Chain Manager 89,FitnessPlus 89,FitnessPlus is a chain of fitness centers 89,Fitness,Fitness Equipment 89
+seller,Charlie Green 90,Sales Director 90,SmartTech 90,SmartTech provides smart home devices 90,Smart Home,Home Automation 90
+buyer,Eve Black 91,Supply Chain Manager 91,FitnessPlus 91,FitnessPlus is a chain of fitness centers 91,Fitness,Fitness Equipment 91
+seller,Charlie Green 92,Sales Director 92,SmartTech 92,SmartTech provides smart home devices 92,Smart Home,Home Automation 92
+buyer,Eve Black 93,Supply Chain Manager 93,FitnessPlus 93,FitnessPlus is a chain of fitness centers 93,Fitness,Fitness Equipment 93
+seller,Charlie Green 94,Sales Director 94,SmartTech 94,SmartTech provides smart home devices 94,Smart Home,Home Automation 94
+buyer,Eve Black 95,Supply Chain Manager 95,FitnessPlus 95,FitnessPlus is a chain of fitness centers 95,Fitness,Fitness Equipment 95
+seller,Charlie Green 96,Sales Director 96,SmartTech 96,SmartTech provides smart home devices 96,Smart Home,Home Automation 96
+buyer,Eve Black 97,Supply Chain Manager 97,FitnessPlus 97,FitnessPlus is a chain of fitness centers 97,Fitness,Fitness Equipment 97
+seller,Charlie Green 98,Sales Director 98,SmartTech 98,SmartTech provides smart home devices 98,Smart Home,Home Automation 98
+buyer,Eve Black 99,Supply Chain Manager 99,FitnessPlus 99,FitnessPlus is a chain of fitness centers 99,Fitness,Fitness Equipment 99
